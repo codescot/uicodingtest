@@ -5,7 +5,9 @@
 npm install
 ```
 
+```
 rename config.example.js to config.js and add fixer.io API key.
+```
 
 ### Compiles and hot-reloads for development
 ```
